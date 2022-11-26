@@ -1,0 +1,16 @@
+..\..\..\Scripts\img2pdf-gui-script.pyw
+..\..\..\Scripts\img2pdf-gui.exe
+..\..\..\Scripts\img2pdf-script.py
+..\..\..\Scripts\img2pdf.exe
+..\__pycache__\img2pdf.cpython-36.pyc
+..\__pycache__\jp2.cpython-36.pyc
+..\img2pdf.py
+..\jp2.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+entry_points.txt
+pbr.json
+requires.txt
+top_level.txt
+zip-safe

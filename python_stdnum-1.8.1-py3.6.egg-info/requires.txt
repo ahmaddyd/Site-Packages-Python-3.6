@@ -1,0 +1,9 @@
+
+[SOAP]
+zeep
+
+[SOAP-ALT]
+suds
+
+[SOAP-FALLBACK]
+PySimpleSOAP
